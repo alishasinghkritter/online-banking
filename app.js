@@ -73,7 +73,7 @@ app.controller('MainCtrl', function($scope) {
 });
 
 
-/*app.directive('moneywarn', function() {
+app.directive('moneywarn', function() {
   var staticWarningLevel = .2;
 
   return {
@@ -97,6 +97,7 @@ app.controller('MainCtrl', function($scope) {
 
       }, true);
     }
-  }*/
+  }
+
 
 });
